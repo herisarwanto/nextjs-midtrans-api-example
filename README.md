@@ -1,4 +1,4 @@
-# Midtrans Payment Gateway Integration with Next.js
+# Next.js API - Example
 
 This project demonstrates the integration of the Midtrans payment gateway utilizing Next.js as the backend.
 
