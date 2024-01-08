@@ -23,7 +23,7 @@ This project demonstrates the integration of the Midtrans payment gateway utiliz
 3. **Install Dependencies:**
    - Run the following command to install project dependencies:
      ```
-     npm install
+     npm install i
      ```
 
 4. **Running the Project:**
