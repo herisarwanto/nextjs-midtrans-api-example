@@ -37,4 +37,4 @@ This project demonstrates the integration of the Midtrans payment gateway utiliz
 
 - Make sure your Midtrans account credentials are correctly set in the `.env` file.
 - For detailed API documentation, refer to the [Midtrans API documentation](https://docs.midtrans.com/).
-- This app was created as a web service for this app: (https://github.com/herisarwanto/flutter-midtrans-example-app)
+- This app was created as a web service for this app: [](https://github.com/herisarwanto/flutter-midtrans-example-app/).
